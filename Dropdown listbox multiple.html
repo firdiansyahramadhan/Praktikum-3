@@ -1,0 +1,104 @@
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>HTML Lanjutan</title>
+    </head>
+    <body>
+<header>
+        <h1> Pelita Bangsa Showroom</h1>
+    </header>
+    <nav>
+        <ul>
+            <li><a href="">Home</a></li>
+                <ul class="sub4"></ul>
+            <li><a href="">Honda</a>
+                <ul class="sub1">
+                    <li><a href="">Honda Civic</a></li>
+                    <li><a href="">Honda Jazz</a></li>
+                    <li><a href="">Honda CRV</a></li>
+                    <li><a href="">Honda Brio</a></li>
+                    <li><a href="">Honda Mobilio</a></li>
+                </ul>
+            <li><a href="">Toyota</a>
+                <ul class="sub2">
+                    <li><a href="">Toyota Alphard</a></li>
+                    <li><a href="">Toyota Avanza</a></li>
+                    <li><a href="">Toyota Fortuner</a></li>
+                    <li><a href="">Toyota Vellfire</a></li>
+                    <li><a href="">Toyota Land Cruiser</a></li>
+                </ul>
+            <li><a href="">Mitsubishi</a>
+                <ul class="sub3">
+                    <li><a href="">Mitsubishi XPander</a></li>
+                    <li><a href="">Mitsubishi Pajero Sport</a></li>
+                    <li><a href="">Mitsubishi Lancer</a></li>
+                    <li><a href="">Mitsubishi Outlander</a></li>
+                    <li><a href="">Mitsubishi Eclipse Cross</a></li>
+                </ul>
+            </li>
+         </ul>
+    </nav>
+    <style>
+        body {
+            background-color: black;
+            font-family: Gotham, "Helvetica Neue", Helvetica, Arial, sans-serif;
+            color: #fff;
+        }
+        nav {
+            height: 100px;
+            background-color: navy;
+            line-height: 50px;
+            position: relative;
+            top:75px;
+            width:1200px;
+            margin:auto;
+        }
+
+        nav ul {
+            list-style: none;
+        }
+        nav ul li a{
+            float: left;
+            width: 275px;
+            color:#fff;
+            text-decoration:none;
+            display: block;
+            text-align: center;
+        }
+        nav ul li a:hover {
+            background-color: grey;
+            display: block;
+
+        }    
+        nav ul li:hover .sub1 {display:block}
+        nav ul .sub1 {
+            display:none;
+            position: absolute;
+            left:310px;
+            top: 100px;
+            background-color: grey;
+            width:240px;
+        }
+        nav ul li:hover .sub2 {display:block}
+        nav ul .sub2 {
+            display:none;
+            position:absolute;
+            left: 170px;
+            top:50px;
+            background-color: grey;
+            width:240px;
+
+        }
+        nav ul li.hover .sub3{display:block}
+        nav ul.sub3 {
+            display: none;
+            position: absolute;
+            left: 170px;
+            top:50px;
+            background-color: grey;
+            width: 240px;
+
+        }
+ </style>
+</body>
