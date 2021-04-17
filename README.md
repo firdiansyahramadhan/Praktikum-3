@@ -4,8 +4,7 @@
 ## NIM   : 31191056
 ## Menjawab Pertanyaan Tugas Praktikum - 3
 ### Buatlah form yang menampilkan dropdown menu dan listbox dengan multiple selection.
-Perintah / Code untuk menampilkan dropdown menu dan listbox dengan multiple selection.![1  Perintah HTML Dropdown dan listbox menggunakan multiple select ](https://user-images.githubusercontent.com/81859768/115105224-b8841f80-9f87-11eb-8bc7-27abbe87de39.png)
-![2  Perintah HTML Dropdown dan listbox menggunakan multiple select ](https://user-images.githubusercontent.com/81859768/115105233-c5a10e80-9f87-11eb-9184-6a463d1107d1.png)
+Perintah / Code untuk menampilkan dropdown menu dan listbox dengan multiple selection.![1  Perintah HTML Dropdown dan listbox menggunakan multiple select ](https://user-images.githubusercontent.com/81859768/115105224-b8841f80-9f87-11eb-8bc7-27abbe87de39.png)![2  Perintah HTML Dropdown dan listbox menggunakan multiple select ](https://user-images.githubusercontent.com/81859768/115105233-c5a10e80-9f87-11eb-9184-6a463d1107d1.png)
 ![3  Perintah HTML Dropdown dan listbox menggunakan multiple select ](https://user-images.githubusercontent.com/81859768/115105236-cafe5900-9f87-11eb-8b4c-1d886fa8b12d.png)
 ### Tampilan pada web browser
 ![Hasil pada web browser](https://user-images.githubusercontent.com/81859768/115105253-e9645480-9f87-11eb-964c-3cf2aa868e4f.png)
